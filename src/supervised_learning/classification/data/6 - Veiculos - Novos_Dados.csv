@@ -1,0 +1,5 @@
+Comp,Circ,DCirc,RadRa,PrAxisRa,MaxLRa,ScatRa,Elong,PrAxisRect,MaxLRect,ScVarMaxis,ScVarmaxis,RaGyr,SkewMaxis,Skewmaxis,Kurtmaxis,KurtMaxis,HollRa,tipo
+84,37,53,121,59,5,123,55,17,125,141,221,133,82,7,1,179,183,van
+105,55,96,181,56,9,219,30,25,175,231,713,216,74,4,5,187,194,opel
+94,44,70,186,72,8,153,42,19,144,171,361,178,67,7,2,199,206,bus
+105,51,93,160,51,7,217,30,24,165,240,703,208,81,9,25,188,188,bus
