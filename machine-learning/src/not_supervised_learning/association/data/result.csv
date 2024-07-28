@@ -1,0 +1,51 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+frozenset({'Gemeos'}),frozenset({'LegPress'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'Gemeos', 'LegPress'})",frozenset({'Crucifixo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Afundo'}),"frozenset({'Crucifixo', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Crucifixo'}),"frozenset({'Afundo', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'LegPress'}),"frozenset({'Afundo', 'Crucifixo'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'Gemeos'})",frozenset({'Crucifixo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'Crucifixo'})",frozenset({'Gemeos'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Gemeos', 'Crucifixo'})",frozenset({'Afundo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Afundo'}),"frozenset({'Gemeos', 'Crucifixo'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Gemeos'}),"frozenset({'Afundo', 'Crucifixo'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Crucifixo'}),"frozenset({'Afundo', 'Gemeos'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'Crucifixo', 'Gemeos'})",frozenset({'LegPress'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'Crucifixo', 'LegPress'})",frozenset({'Gemeos'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'LegPress'}),frozenset({'Gemeos'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Gemeos', 'Crucifixo', 'LegPress'})",frozenset({'Afundo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'Gemeos'})","frozenset({'Crucifixo', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'Crucifixo'})","frozenset({'Gemeos', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'LegPress'})","frozenset({'Gemeos', 'Crucifixo'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Gemeos', 'Crucifixo'})","frozenset({'Afundo', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Gemeos', 'LegPress'})","frozenset({'Afundo', 'Crucifixo'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Crucifixo', 'LegPress'})","frozenset({'Afundo', 'Gemeos'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Afundo'}),"frozenset({'Gemeos', 'Crucifixo', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Gemeos'}),"frozenset({'Afundo', 'Crucifixo', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Crucifixo'}),"frozenset({'Afundo', 'Gemeos', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Crucifixo', 'LegPress'})",frozenset({'Afundo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'LegPress'})",frozenset({'Crucifixo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'Crucifixo'})",frozenset({'LegPress'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'LegPress'}),"frozenset({'Gemeos', 'Crucifixo'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Afundo'}),frozenset({'LegPress'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'LegPress'}),frozenset({'Afundo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Crucifixo'}),frozenset({'LegPress'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'LegPress'}),frozenset({'Crucifixo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Afundo'}),frozenset({'Gemeos'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Gemeos'}),frozenset({'Afundo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Gemeos'}),frozenset({'Crucifixo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Crucifixo'}),frozenset({'Gemeos'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Afundo'}),frozenset({'Crucifixo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Crucifixo'}),frozenset({'Afundo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'Gemeos'})",frozenset({'LegPress'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Afundo', 'LegPress'})",frozenset({'Gemeos'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Gemeos', 'LegPress'})",frozenset({'Afundo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Afundo'}),"frozenset({'Gemeos', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Gemeos'}),"frozenset({'Afundo', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'LegPress'}),"frozenset({'Afundo', 'Gemeos'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Gemeos', 'Crucifixo'})",frozenset({'LegPress'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Gemeos', 'LegPress'})",frozenset({'Crucifixo'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+"frozenset({'Crucifixo', 'LegPress'})",frozenset({'Gemeos'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Gemeos'}),"frozenset({'Crucifixo', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'Crucifixo'}),"frozenset({'Gemeos', 'LegPress'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
+frozenset({'LegPress'}),"frozenset({'Afundo', 'Crucifixo', 'Gemeos'})",1.0,1.0,1.0,1.0,1.0,0.0,inf
